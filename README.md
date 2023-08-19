@@ -1,5 +1,5 @@
-# code-server-devlop-demo
-vscode-server的快速部署案例
+# code-server-docker-deploy
+vscode-server docker部署配置
 
 ### 介绍
 > 在linuxserver/code-server基础上，创建了两个镜像brownant/code-server和brownant/code-server-x86。更方便拉取，不过不方便更新。
